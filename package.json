@@ -1,0 +1,21 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "@google-cloud/speech": "^3.5.3",
+    "dotenv": "^8.2.0",
+    "request": "^2.88.0",
+    "telegraf": "^3.35.0",
+    "telegraf-inline-menu": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
