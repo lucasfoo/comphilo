@@ -7,7 +7,7 @@ yarn-error.log*
 lerna-debug.log*
 
 .env
-.ComPhilo-ff8ff40092f7.json
+ComPhilo-ff8ff40092f7.json
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
